@@ -1,0 +1,26 @@
+{
+  "name": "time-machine",
+  "version": "0.0.0",
+  "description": "🛸 time-machine. Back in time, back from the trip",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zealleaf/time-machine.git"
+  },
+  "keywords": [],
+  "author": "zealleaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zealleaf/time-machine/issues"
+  },
+  "homepage": "https://github.com/zealleaf/time-machine#readme",
+  "devDependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^9.0.2",
+    "shelljs": "^0.8.5"
+  }
+}
